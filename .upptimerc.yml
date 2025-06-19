@@ -6,7 +6,7 @@ sites:
   - name: SGDC
     url: https://www.sgdc.nl/
   - name: Zermelo
-  - url: https://sgdc.zportal.nl/
+    url: https://sgdc.zportal.nl/
 
 status-website:
   cname: status.lucasmangroelal.nl
