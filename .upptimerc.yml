@@ -7,6 +7,8 @@ sites:
     url: https://www.sgdc.nl/
   - name: Zermelo
     url: https://sgdc.zportal.nl/
+  - name: Magister
+    url: https://sgravendreef.magister.net
 
 status-website:
   cname: status.lucasmangroelal.nl
