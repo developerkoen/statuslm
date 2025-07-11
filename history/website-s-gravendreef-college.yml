@@ -1,7 +1,7 @@
 url: https://www.sgdc.nl/
-status: up
-code: 200
-responseTime: 1243
-lastUpdated: 2025-07-11T19:56:54.659Z
+status: down
+code: 503
+responseTime: 26600
+lastUpdated: 2025-07-11T20:58:11.299Z
 startTime: 2025-06-19T14:11:28.918Z
 generator: Upptime <https://github.com/upptime/upptime>
