@@ -11,6 +11,9 @@ sites:
     url: https://sgravendreef.magister.net
   - name: Noordhoff (digitaal)
     url: http://apps.noordhoff.nl/
+  - name: Koffiecafé Bot
+    url: 45.136.141.72
+    port: 20298
 
 status-website:
   cname: status.lucasmangroelal.nl
