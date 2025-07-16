@@ -12,6 +12,7 @@ sites:
   - name: Noordhoff (digitaal)
     url: http://apps.noordhoff.nl/
   - name: Koffiecafé Bot
+    check: "tcp-ping"
     url: 45.136.141.72
     port: 20298
 
