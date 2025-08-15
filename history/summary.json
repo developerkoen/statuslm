@@ -4,7 +4,7 @@
     "url": "https://www.sgdc.nl/",
     "icon": "https://icons.duckduckgo.com/ip3/www.sgdc.nl.ico",
     "slug": "website-s-gravendreef-college",
-    "status": "up",
+    "status": "down",
     "uptime": "98.79%",
     "uptimeDay": "38.05%",
     "uptimeWeek": "91.15%",
@@ -93,7 +93,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-15": 463,
+      "2025-08-15": 474,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
