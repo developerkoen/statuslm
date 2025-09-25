@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.sgdc.nl.ico",
     "slug": "website-s-gravendreef-college",
     "status": "up",
-    "uptime": "87.67%",
+    "uptime": "87.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.66%",
-    "uptimeMonth": "94.70%",
-    "uptimeYear": "87.67%",
+    "uptimeMonth": "95.15%",
+    "uptimeYear": "87.68%",
     "time": 1798,
     "timeDay": 1625,
     "timeWeek": 1370,
@@ -57,7 +57,7 @@
     "url": "https://sgravendreef.magister.net",
     "icon": "https://icons.duckduckgo.com/ip3/sgravendreef.magister.net.ico",
     "slug": "magister",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -68,7 +68,9 @@
     "timeWeek": 805,
     "timeMonth": 1081,
     "timeYear": 914,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-25": 0
+    }
   },
   {
     "name": "Noordhoff (digitaal)",
@@ -105,7 +107,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-25": 76,
+      "2025-09-25": 270,
       "2025-09-24": 1440,
       "2025-09-23": 1440,
       "2025-09-22": 1440,
