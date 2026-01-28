@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.sgdc.nl.ico",
     "slug": "website-s-gravendreef-college",
     "status": "up",
-    "uptime": "94.60%",
+    "uptime": "94.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.60%",
+    "uptimeYear": "94.61%",
     "time": 1467,
     "timeDay": 1589,
     "timeWeek": 1368,
@@ -39,9 +39,9 @@
     "url": "https://sgdc.zportal.nl/",
     "icon": "https://icons.duckduckgo.com/ip3/sgdc.zportal.nl.ico",
     "slug": "zermelo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -50,7 +50,9 @@
     "timeWeek": 602,
     "timeMonth": 579,
     "timeYear": 548,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-28": 0
+    }
   },
   {
     "name": "Magister",
@@ -111,7 +113,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-28": 101,
+      "2026-01-28": 1015,
       "2026-01-27": 1440,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
